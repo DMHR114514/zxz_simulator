@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zxz_simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zxz_simulator_jar</output-path>
+    <root id="archive" name="zxz_simulator.jar">
+      <element id="module-output" name="zxz_simulator" />
+    </root>
+  </artifact>
+</component>
